@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.2.5",
+    "dotenv": "^16.3.1",
     "prisma": "^5.1.1",
     "typescript": "^5.0.4"
   },
@@ -19,6 +20,7 @@
     "@fastify/cors": "^8.3.0",
     "@prisma/client": "^5.1.1",
     "@rocketseat/eslint-config": "^1.2.0",
+    "axios": "^1.4.0",
     "eslint": "^8.41.0",
     "fastify": "^4.17.0",
     "tsx": "^3.12.7",
